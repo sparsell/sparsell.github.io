@@ -5,7 +5,7 @@ header-img: img/home-bg.png
 email: hello@sparsell.com
 copyright_name: Sonja Parsell
 description: > # this means to ignore newlines until "baseurl:"
-  A Dev Story
+  My Dev Story
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: s_parsell
 github_username:  sparsell
