@@ -16,7 +16,7 @@ straight in my head was really difficult at the start. I had to stop and think f
 
 So I made a little picture to help me, once I got my bearings and told myself a few stories (see below). I'm a very visual learner so a picture is worth it's weight in gold if it makes me remember something. 
 
-![array methods image]https://ibb.co/NnVQXCC)
+
 
 
 The random, and far from perfect, narratives are as follows:
