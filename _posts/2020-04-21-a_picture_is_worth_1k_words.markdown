@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "A picture is worth 1k words"
-date:       2020-04-21 15:07:30 +0000
+date:       2020-04-21 11:07:31 -0400
 permalink:  a_picture_is_worth_1k_words
 ---
 
