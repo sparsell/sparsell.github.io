@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Routine? What routine?"
-date:       2020-05-11 15:19:52 +0000
+date:       2020-05-11 11:19:53 -0400
 permalink:  routine_what_routine
 ---
 
