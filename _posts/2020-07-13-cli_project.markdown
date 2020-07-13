@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "CLI Project"
-date:       2020-07-13 17:20:25 +0000
+date:       2020-07-13 13:20:26 -0400
 permalink:  cli_project
 ---
 
@@ -41,7 +41,7 @@ Always go for something that works and add features later.
 
 #### Get friendly with pry and github
 
-I have to admit, pry was a bit of a mystery to me up until this point. And now, whoa, I totally appreciate its power. It makes sense to really master what it's telling you and how to use it. Same for git/github. I have always loved git and github so making myself use it every day - everything was committed with relative comments several times a day. I even used different branches on my desktop v. my laptop to be able practice merging. This may have been extra in terms of this project, but it did come in handy when I wanted to try different things with some methods without having to have lots of comments in my files. I kept my thought process clear by using different branches. 
+I have to admit, pry was a bit of a mystery to me up until this point. And now, whoa, I totally appreciate its power. It makes sense to really master what it's telling you and how to use it. Same for git/github. I have always loved git and github so making myself use it every day - everything was committed with relative comments several times a day - was unfamiliar at first but became really powerful later on. I even used different branches on my desktop v. my laptop to be able practice merging. This may have been extra work in terms of this project, but it did come in handy when I wanted to try different things with some methods without having to have lots of commented out code in my files. I kept my thought processes clear by using different branches. 
 
 #### Don't compare yourself to others
 
