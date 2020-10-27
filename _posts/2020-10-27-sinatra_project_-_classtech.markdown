@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Sinatra Project - ClassTech"
-date:       2020-10-27 14:02:44 +0000
+date:       2020-10-27 10:02:45 -0400
 permalink:  sinatra_project_-_classtech
 ---
 
