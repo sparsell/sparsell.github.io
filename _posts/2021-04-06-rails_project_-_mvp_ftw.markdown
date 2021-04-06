@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Rails Project - MVP FTW"
-date:       2021-04-06 15:13:49 +0000
+date:       2021-04-06 11:13:49 -0400
 permalink:  rails_project_-_mvp_ftw
 ---
 
