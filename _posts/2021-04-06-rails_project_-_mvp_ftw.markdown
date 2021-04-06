@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Rails Project - MVP FTW"
+title:      "Rails Project: an MVP FTW"
 date:       2021-04-06 11:13:49 -0400
 permalink:  rails_project_-_mvp_ftw
 ---
